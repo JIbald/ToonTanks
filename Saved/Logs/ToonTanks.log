@@ -651,3 +651,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.29-08.26.19:139][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.06.29-08.26.19:174][  0]LogRenderer: Reallocating scene render targets to support 1156x548 Format 10 NumSamples 1 (Frame:4).
 [2020.06.29-08.26.19:174][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.29-08.49.19:480][585]LogHttp: Warning: 0000021654E37900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B22F3BD9A-4C90-1853-BDCB-A19FBD35D81B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=ecba36b9461dc2d7bd026aa72670431c%7C8be1adac7b7d400286ca5bfe9bc2e26c%7C32226265-2e3d-4e74-bd34-09bde91036c8&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.06.29-08.49.19:481][585]LogHttp: Warning: 0000021654E37900: request failed, libcurl error: 0 (No error)
+[2020.06.29-08.49.19:481][585]LogHttp: Warning: 0000021654E37900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2167ad67f70 [can pipeline])
+[2020.06.29-08.49.19:481][585]LogHttp: Warning: 0000021654E37900: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2020.06.29-08.49.19:481][585]LogHttp: Warning: 0000021654E37900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.203.158.123) port 443 (#8))
+[2020.06.29-08.49.19:481][585]LogHttp: Warning: 0000021654E37900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.06.29-08.49.19:481][585]LogHttp: Warning: 0000021654E37900: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2020.06.29-08.49.19:481][585]LogHttp: Warning: 0000021654E37900: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2020.06.29-08.49.19:481][585]LogHttp: Warning: 0000021654E37900: libcurl info message cache 6 (Closing connection 8)
+[2020.06.29-08.49.19:481][585]LogHttp: Warning: 0000021654E37900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.06.29-08.49.19:816][586]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B22F3BD9A-4C90-1853-BDCB-A19FBD35D81B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=ecba36b9461dc2d7bd026aa72670431c%7C8be1adac7b7d400286ca5bfe9bc2e26c%7C32226265-2e3d-4e74-bd34-09bde91036c8&AppEnvironment=datacollector-source&UploadType=eteventstream
