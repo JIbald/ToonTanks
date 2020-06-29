@@ -662,3 +662,371 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.29-08.49.19:481][585]LogHttp: Warning: 0000021654E37900: libcurl info message cache 6 (Closing connection 8)
 [2020.06.29-08.49.19:481][585]LogHttp: Warning: 0000021654E37900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
 [2020.06.29-08.49.19:816][586]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B22F3BD9A-4C90-1853-BDCB-A19FBD35D81B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=ecba36b9461dc2d7bd026aa72670431c%7C8be1adac7b7d400286ca5bfe9bc2e26c%7C32226265-2e3d-4e74-bd34-09bde91036c8&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.06.29-10.46.06:787][842]LogSlate: Window 'Source Control Login' being destroyed
+[2020.06.29-10.46.27:171][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.29-10.46.27:999][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.29-10.46.29:822][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.29-10.46.30:370][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.29-10.46.30:876][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.29-10.46.31:416][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.29-10.46.34:357][844]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2020.06.29-10.46.36:604][109]Cmd: DELETE
+[2020.06.29-10.46.36:604][109]Cmd: ACTOR DELETE
+[2020.06.29-10.46.36:609][109]LogEditorActor: Deleted Actor: Character
+[2020.06.29-10.46.36:619][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.06.29-10.46.36:621][109]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.06.29-10.46.41:703][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:704][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-10.46.41:808][689]EditorErrors: Warning: No assets to check in!
+[2020.06.29-10.47.05:627][349]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.29-10.47.12:353][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.06.29-10.47.12:354][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/johan/Desktop/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.06.29-10.47.12:366][719]LogSavePackage: Moving '../../../../../../Users/johan/Desktop/ToonTanks/Saved/Main_Auto14BEBD97A4848786C1DB9B88829701D5E.tmp' to '../../../../../../Users/johan/Desktop/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2020.06.29-10.47.12:368][719]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.025
+[2020.06.29-10.47.12:368][719]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.025
+[2020.06.29-10.52.06:921][713]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.06.29-10.52.06:921][713]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.06.29-10.52.06:950][713]LogSlate: Took 0.005173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.29-10.57.12:766][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.06.29-10.57.12:767][942]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.011
+[2020.06.29-10.57.26:705][188]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.06.29-10.58.35:336][413]Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/johan/Desktop/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2020.06.29-10.58.40:657][413]Discovering modules, targets and source code for project...
+[2020.06.29-10.58.42:059][413]Binding IntelliSense data...
+[2020.06.29-10.58.43:871][413]Binding IntelliSense data... 100%
+[2020.06.29-10.58.43:871][413]Writing project files...
+[2020.06.29-10.58.46:878][413]Writing project files... 100%
+[2020.06.29-10.58.47:238][413]LogHotReload: Recompiling module ToonTanks...
+[2020.06.29-10.58.47:239][413]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.06.29-10.58.47:242][413]Candidate modules for hot reload:
+[2020.06.29-10.58.47:242][413]  ToonTanks
+[2020.06.29-10.58.47:242][413]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,1082 ToonTanksEditor Win64 Development -Project="C:/Users/johan/Desktop/ToonTanks/ToonTanks.uproject" "C:/Users/johan/Desktop/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2020.06.29-10.59.15:291][413]Using 'git status' to determine working set for adaptive non-unity build (C:\Users\johan\Desktop\ToonTanks).
+Creating makefile for ToonTanksEditor (no existing makefile)
+Parsing headers for ToonTanksEditor
+  Running UnrealHeaderTool "C:\Users\johan\Desktop\ToonTanks\ToonTanks.uproject" "C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\johan\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+Reflection code generated for ToonTanksEditor in 4.3567541 seconds
+Building ToonTanksEditor...
+Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 9 actions with 16 processes...
+  [1/9] Default.rc2
+  [2/9] SharedPCH.Engine.ShadowErrors.cpp
+  [3/9] ToonTanks.cpp
+  [4/9] PawnBase.cpp
+  [5/9] ToonTanks.init.gen.cpp
+  [6/9] PawnBase.gen.cpp
+  [7/9] UE4Editor-ToonTanks-1082.lib
+     Creating library C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1082.lib and object C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1082.exp
+  [8/9] UE4Editor-ToonTanks-1082.dll
+     Creating library C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1082.suppressed.lib and object C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1082.suppressed.exp
+  [9/9] ToonTanksEditor.target
+Total time in Parallel executor: 17.69 seconds
+Total execution time: 27.97 seconds
+
+[2020.06.29-10.59.15:293][413]CompilerResultsLog: New page: Compilation - Jun 29, 2020, 2:59:15 PM
+[2020.06.29-10.59.15:293][413]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\johan\Desktop\ToonTanks).
+[2020.06.29-10.59.15:293][413]CompilerResultsLog: Creating makefile for ToonTanksEditor (no existing makefile)
+[2020.06.29-10.59.15:293][413]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2020.06.29-10.59.15:293][413]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\johan\Desktop\ToonTanks\ToonTanks.uproject" "C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\johan\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.06.29-10.59.15:293][413]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 4.3567541 seconds
+[2020.06.29-10.59.15:293][413]CompilerResultsLog: Building ToonTanksEditor...
+[2020.06.29-10.59.15:293][413]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.06.29-10.59.15:293][413]CompilerResultsLog: Building 9 actions with 16 processes...
+[2020.06.29-10.59.15:293][413]CompilerResultsLog:   [1/9] Default.rc2
+[2020.06.29-10.59.15:293][413]CompilerResultsLog:   [2/9] SharedPCH.Engine.ShadowErrors.cpp
+[2020.06.29-10.59.15:293][413]CompilerResultsLog:   [3/9] ToonTanks.cpp
+[2020.06.29-10.59.15:293][413]CompilerResultsLog:   [4/9] PawnBase.cpp
+[2020.06.29-10.59.15:293][413]CompilerResultsLog:   [5/9] ToonTanks.init.gen.cpp
+[2020.06.29-10.59.15:293][413]CompilerResultsLog:   [6/9] PawnBase.gen.cpp
+[2020.06.29-10.59.15:293][413]CompilerResultsLog:   [7/9] UE4Editor-ToonTanks-1082.lib
+[2020.06.29-10.59.15:293][413]CompilerResultsLog:      Creating library C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1082.lib and object C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1082.exp
+[2020.06.29-10.59.15:293][413]CompilerResultsLog:   [8/9] UE4Editor-ToonTanks-1082.dll
+[2020.06.29-10.59.15:293][413]CompilerResultsLog:      Creating library C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1082.suppressed.lib and object C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1082.suppressed.exp
+[2020.06.29-10.59.15:293][413]CompilerResultsLog:   [9/9] ToonTanksEditor.target
+[2020.06.29-10.59.15:294][413]CompilerResultsLog: Total time in Parallel executor: 17.69 seconds
+[2020.06.29-10.59.15:294][413]CompilerResultsLog: Total execution time: 27.97 seconds
+[2020.06.29-10.59.15:294][413]LogMainFrame: MainFrame: Module compiling took 28.055 seconds
+[2020.06.29-10.59.15:294][413]Reloading module ToonTanks after successful compile.
+[2020.06.29-10.59.15:324][413]LogClass: Could not find existing package /Script/ToonTanks for HotReload of class PawnBase, assuming a new package.
+[2020.06.29-10.59.15:325][413]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0005 seconds. Added 1 classes and 3 folders.
+[2020.06.29-10.59.15:335][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.06.29-10.59.15:349][413]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 3428 classes and 824 folders.
+[2020.06.29-10.59.15:457][413]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.06.29-11.07.13:554][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.06.29-11.07.13:555][800]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.011
+[2020.06.29-11.17.14:235][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.06.29-11.17.14:236][575]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.010
+[2020.06.29-11.22.22:105][581]Candidate modules for hot reload:
+[2020.06.29-11.22.22:105][581]  ToonTanks
+[2020.06.29-11.22.22:106][581]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,5737 ToonTanksEditor Win64 Development -Project="C:/Users/johan/Desktop/ToonTanks/ToonTanks.uproject" "C:/Users/johan/Desktop/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2020.06.29-11.22.22:117][581]Warning: Starting HotReload took  0.0s.
+[2020.06.29-11.22.32:609][811]CompilerResultsLog: New page: Compilation - Jun 29, 2020, 3:22:32 PM
+[2020.06.29-11.22.32:609][811]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\johan\Desktop\ToonTanks).
+[2020.06.29-11.22.32:609][811]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2020.06.29-11.22.32:609][811]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\johan\Desktop\ToonTanks\ToonTanks.uproject" "C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\johan\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.06.29-11.22.32:609][811]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 4.5946574 seconds
+[2020.06.29-11.22.32:609][811]CompilerResultsLog: Building ToonTanksEditor...
+[2020.06.29-11.22.32:609][811]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.06.29-11.22.32:609][811]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.06.29-11.22.32:609][811]CompilerResultsLog:   [1/6] PawnBase.cpp
+[2020.06.29-11.22.32:609][811]CompilerResultsLog:   [2/6] ToonTanks.init.gen.cpp
+[2020.06.29-11.22.32:609][811]CompilerResultsLog:   [3/6] PawnBase.gen.cpp
+[2020.06.29-11.22.32:609][811]CompilerResultsLog:   [4/6] UE4Editor-ToonTanks-5737.lib
+[2020.06.29-11.22.32:609][811]CompilerResultsLog:      Creating library C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5737.lib and object C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5737.exp
+[2020.06.29-11.22.32:609][811]CompilerResultsLog:   [5/6] UE4Editor-ToonTanks-5737.dll
+[2020.06.29-11.22.32:609][811]CompilerResultsLog:      Creating library C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5737.suppressed.lib and object C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5737.suppressed.exp
+[2020.06.29-11.22.32:609][811]CompilerResultsLog:   [6/6] ToonTanksEditor.target
+[2020.06.29-11.22.32:609][811]CompilerResultsLog: Total time in Parallel executor: 1.19 seconds
+[2020.06.29-11.22.32:609][811]CompilerResultsLog: Total execution time: 10.41 seconds
+[2020.06.29-11.22.32:609][811]LogMainFrame: MainFrame: Module compiling took 10.507 seconds
+[2020.06.29-11.22.32:623][811]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 3428 classes and 824 folders.
+[2020.06.29-11.22.32:623][811]Display: HotReload took 10.5s.
+[2020.06.29-11.22.37:387][379]Candidate modules for hot reload:
+[2020.06.29-11.22.37:387][379]  ToonTanks
+[2020.06.29-11.22.37:387][379]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,1002 ToonTanksEditor Win64 Development -Project="C:/Users/johan/Desktop/ToonTanks/ToonTanks.uproject" "C:/Users/johan/Desktop/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2020.06.29-11.22.37:397][379]Warning: Starting HotReload took  0.0s.
+[2020.06.29-11.22.42:577][970]CompilerResultsLog: New page: Compilation - Jun 29, 2020, 3:22:42 PM
+[2020.06.29-11.22.42:577][970]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\johan\Desktop\ToonTanks).
+[2020.06.29-11.22.42:577][970]CompilerResultsLog: Building ToonTanksEditor...
+[2020.06.29-11.22.42:577][970]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.06.29-11.22.42:577][970]CompilerResultsLog: Building 3 actions with 16 processes...
+[2020.06.29-11.22.42:577][970]CompilerResultsLog:   [1/3] UE4Editor-ToonTanks-1002.lib
+[2020.06.29-11.22.42:577][970]CompilerResultsLog:      Creating library C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1002.lib and object C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1002.exp
+[2020.06.29-11.22.42:577][970]CompilerResultsLog:   [2/3] UE4Editor-ToonTanks-1002.dll
+[2020.06.29-11.22.42:577][970]CompilerResultsLog:      Creating library C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1002.suppressed.lib and object C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1002.suppressed.exp
+[2020.06.29-11.22.42:577][970]CompilerResultsLog:   [3/3] ToonTanksEditor.target
+[2020.06.29-11.22.42:577][970]CompilerResultsLog: Total time in Parallel executor: 0.62 seconds
+[2020.06.29-11.22.42:577][970]CompilerResultsLog: Total execution time: 5.11 seconds
+[2020.06.29-11.22.42:577][970]LogMainFrame: MainFrame: Module compiling took 5.192 seconds
+[2020.06.29-11.22.42:590][970]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 3428 classes and 824 folders.
+[2020.06.29-11.22.42:590][970]Display: HotReload took  5.2s.
+[2020.06.29-11.23.57:752][ 61]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.06.29-11.23.57:752][ 61]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.06.29-11.24.07:181][594]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.06.29-11.24.09:089][817]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.06.29-11.24.09:089][817]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.06.29-11.25.48:901][925]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PawnTank.BP_PawnTank
+[2020.06.29-11.25.49:077][925]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.06.29-11.25.49:777][925]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2020.06.29-11.25.49:836][926]LogRenderer: Reallocating scene render targets to support 1156x596 Format 10 NumSamples 1 (Frame:1).
+[2020.06.29-11.25.50:900][ 48]LogSlate: Took 0.002612 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.29-11.25.51:786][144]LogRenderer: Reallocating scene render targets to support 1156x600 Format 10 NumSamples 1 (Frame:203).
+[2020.06.29-11.25.52:011][158]LogRenderer: Reallocating scene render targets to support 1156x708 Format 10 NumSamples 1 (Frame:211).
+[2020.06.29-11.25.52:279][190]LogSlate: Window 'BP_PawnTank' being destroyed
+[2020.06.29-11.26.39:577][851]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-11.26.39:577][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-11.26.43:157][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.06.29-11.26.44:584][255]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.29-11.26.44:659][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.06.29-11.27.09:315][188]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.06.29-11.27.09:315][188]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.06.29-11.27.17:399][152]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_.BP_
+[2020.06.29-11.27.17:688][152]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2020.06.29-11.27.20:724][508]LogSlate: Window 'BP_' being destroyed
+[2020.06.29-11.27.20:728][508]LogSlate: Window 'BP_' being destroyed
+[2020.06.29-11.27.20:735][508]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-11.27.20:736][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.29-11.27.49:027][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.06.29-11.27.49:030][621]LogMetaData: Removing '/Game/Blueprints/Pawns/BP_P.BP_P:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Pawns/BP_.PackageMetaData'
+[2020.06.29-11.27.49:030][621]LogMetaData: Removing '/Game/Blueprints/Pawns/BP_P.SKEL_BP_P_C' ref from Metadata '/Game/Blueprints/Pawns/BP_.PackageMetaData'
+[2020.06.29-11.27.49:030][621]LogMetaData: Removing '/Game/Blueprints/Pawns/BP_P.BP_P_C' ref from Metadata '/Game/Blueprints/Pawns/BP_.PackageMetaData'
+[2020.06.29-11.27.49:030][621]LogMetaData: Removing '/Game/Blueprints/Pawns/BP_P.BP_P:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Pawns/BP_.PackageMetaData'
+[2020.06.29-11.27.49:030][621]LogMetaData: Removing '/Game/Blueprints/Pawns/BP_P.BP_P:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Pawns/BP_.PackageMetaData'
+[2020.06.29-11.27.49:030][621]LogMetaData: Removing '/Game/Blueprints/Pawns/BP_P.BP_P:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Pawns/BP_.PackageMetaData'
+[2020.06.29-11.27.49:053][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_P" FILE="../../../../../../Users/johan/Desktop/ToonTanks/Content/Blueprints/Pawns/BP_P.uasset" SILENT=true
+[2020.06.29-11.27.49:058][621]LogSavePackage: Moving '../../../../../../Users/johan/Desktop/ToonTanks/Saved/BP_P22FCB28644C1D08F3A1D5CA2F27B8AC0.tmp' to '../../../../../../Users/johan/Desktop/ToonTanks/Content/Blueprints/Pawns/BP_P.uasset'
+[2020.06.29-11.27.50:036][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.06.29-11.27.50:055][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.06.29-11.27.50:070][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.06.29-11.27.50:095][621]AssetCheck: New page: Asset Save: BP_P
+[2020.06.29-11.27.50:095][621]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_P.BP_P
+[2020.06.29-11.27.59:022][517]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1862)].
+[2020.06.29-11.27.59:050][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.06.29-11.27.59:051][517]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.018
+[2020.06.29-11.28.02:596][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.06.29-11.28.03:619][933]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.29-11.28.03:741][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.06.29-11.28.03:761][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.06.29-11.28.03:776][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.06.29-11.28.03:910][933]SourceControl: Error: warning: could not open directory 'Content/Blueprints/': No such file or directory
+[2020.06.29-11.28.03:910][933]SourceControl: rm 'Content/Blueprints/Pawns/BP_P.uasset'
+[2020.06.29-11.28.36:997][886]LogTexture: Display: Building textures: T_ColourGrid (AutoDXT, 256X256)
+[2020.06.29-11.28.36:997][886]LogMaterial: Display: Missing cached shader map for material M_EmissiveBase, compiling. 
+[2020.06.29-11.28.37:033][886]LogStaticMesh: Building static mesh SM_TankBase...
+[2020.06.29-11.28.37:042][886]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 15
+[2020.06.29-11.28.37:042][886]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2020.06.29-11.28.37:042][886]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2020.06.29-11.28.37:042][886]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2020.06.29-11.28.37:042][886]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2020.06.29-11.28.37:042][886]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2020.06.29-11.28.37:042][886]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.06.29-11.28.37:042][886]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.06.29-11.28.37:077][886]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Meshes/SM_TankBase.SM_TankBase
+[2020.06.29-11.28.37:089][886]LogMaterial: Display: Missing cached shader map for material M_TextureBase, compiling. 
+[2020.06.29-11.28.37:103][886]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 15
+[2020.06.29-11.28.37:103][886]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2020.06.29-11.28.37:103][886]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2020.06.29-11.28.37:104][886]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 9
+[2020.06.29-11.28.37:125][886]LogActorFactory: Actor Factory created SM_TankBase
+[2020.06.29-11.28.37:961][972]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2020.06.29-11.28.38:275][984]LogActorFactory: Actor Factory created SM_TankBase
+[2020.06.29-11.28.38:407][988]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2020.06.29-11.28.38:643][  2]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2020.06.29-11.28.38:838][ 11]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.06.29-11.28.38:883][ 14]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2020.06.29-11.28.38:883][ 14]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2020.06.29-11.28.38:895][ 15]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2020.06.29-11.28.40:944][251]Cmd: DELETE
+[2020.06.29-11.28.40:944][251]Cmd: ACTOR DELETE
+[2020.06.29-11.28.40:945][251]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.29-11.28.40:960][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.06.29-11.28.40:964][251]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.06.29-11.29.02:274][757]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.06.29-11.29.02:274][757]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.06.29-11.29.12:686][  0]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2020.06.29-11.29.12:982][  0]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2020.06.29-11.29.52:651][773]BlueprintLog: New page: Compile BP_PawnTank
+[2020.06.29-11.29.52:677][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.06.29-11.29.52:693][773]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.06.29-11.30.11:868][745]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.06.29-11.30.33:599][300]LogSlate: Window 'Class Viewer' being destroyed
+[2020.06.29-11.30.33:602][300]LogSlate: Window 'Class Viewer' being destroyed
+[2020.06.29-11.37.59:020][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.06.29-11.37.59:022][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/johan/Desktop/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.06.29-11.37.59:033][ 20]LogSavePackage: Moving '../../../../../../Users/johan/Desktop/ToonTanks/Saved/Main_Auto2E82A92064463C3E6056D509D3A01FC79.tmp' to '../../../../../../Users/johan/Desktop/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
+[2020.06.29-11.37.59:035][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.035
+[2020.06.29-11.37.59:035][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.035
+[2020.06.29-11.37.59:036][ 20]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Pawns/BP_PawnTank] ([1] browsable assets)...
+[2020.06.29-11.37.59:036][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_PawnTank]
+[2020.06.29-11.37.59:040][ 20]LogSavePackage: Moving '../../../../../../Users/johan/Desktop/ToonTanks/Saved/BP_PawnTank_Auto200B1BB634056DC6B138FEA8EB4B36DAF.tmp' to '../../../../../../Users/johan/Desktop/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawns/BP_PawnTank_Auto2.uasset'
+[2020.06.29-11.37.59:041][ 20]LogFileHelpers: Auto-saving content packages took 0.006
+[2020.06.29-11.39.17:361][226]LogSlate: Window 'BP_PawnTank' being destroyed
+[2020.06.29-11.39.28:445][538]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.06.29-11.39.28:445][538]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.06.29-11.39.45:930][629]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_BaseTurret.BP_BaseTurret
+[2020.06.29-11.39.46:209][629]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2020.06.29-11.40.07:514][162]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1862)].
+[2020.06.29-11.40.08:027][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.06.29-11.40.08:033][162]LogMetaData: Removing '/Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Pawns/BP_BaseTurret.PackageMetaData'
+[2020.06.29-11.40.08:033][162]LogMetaData: Removing '/Game/Blueprints/Pawns/BP_PawnTurret.SKEL_BP_PawnTurret_C' ref from Metadata '/Game/Blueprints/Pawns/BP_BaseTurret.PackageMetaData'
+[2020.06.29-11.40.08:033][162]LogMetaData: Removing '/Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret_C' ref from Metadata '/Game/Blueprints/Pawns/BP_BaseTurret.PackageMetaData'
+[2020.06.29-11.40.08:033][162]LogMetaData: Removing '/Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Pawns/BP_BaseTurret.PackageMetaData'
+[2020.06.29-11.40.08:033][162]LogMetaData: Removing '/Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Pawns/BP_BaseTurret.PackageMetaData'
+[2020.06.29-11.40.08:033][162]LogMetaData: Removing '/Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Pawns/BP_BaseTurret.PackageMetaData'
+[2020.06.29-11.40.08:051][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTurret" FILE="../../../../../../Users/johan/Desktop/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset" SILENT=true
+[2020.06.29-11.40.08:055][162]LogSavePackage: Moving '../../../../../../Users/johan/Desktop/ToonTanks/Saved/BP_PawnTurret86B7C582431495B3E2A71E8453AEA110.tmp' to '../../../../../../Users/johan/Desktop/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset'
+[2020.06.29-11.40.09:033][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.06.29-11.40.09:059][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.06.29-11.40.09:080][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.06.29-11.40.09:381][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/johan/Desktop/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.29-11.40.09:398][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.06.29-11.40.09:408][162]LogSavePackage: Moving '../../../../../../Users/johan/Desktop/ToonTanks/Saved/MainCDF4D0AE4DC29B98B13E39A383A867CB.tmp' to '../../../../../../Users/johan/Desktop/ToonTanks/Content/Maps/Main.umap'
+[2020.06.29-11.40.09:491][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Users/johan/Desktop/ToonTanks/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2020.06.29-11.40.09:507][162]LogSavePackage: Moving '../../../../../../Users/johan/Desktop/ToonTanks/Saved/Main_BuiltData4E1489DE41889B96738B99B6629CABBA.tmp' to '../../../../../../Users/johan/Desktop/ToonTanks/Content/Maps/Main_BuiltData.uasset'
+[2020.06.29-11.40.09:521][162]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.29-11.40.09:521][162]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret
+[2020.06.29-11.40.09:521][162]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2020.06.29-11.40.09:521][162]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:031][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.40.18:132][149]LogPackageName: Error: Illegal call to DoesPackageExist: '../../../../../../Users/johan/Desktop/ToonTanks/ToonTanks.uproject' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.06.29-11.40.18:132][149]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.06.29-11.40.18:428][149]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.295 s
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: === Handled ensure: ===
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: 
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/PackageName.cpp] [Line: 943]
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: Illegal call to DoesPackageExist: '../../../../../../Users/johan/Desktop/ToonTanks/ToonTanks.uproject' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: Stack: 
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff966f7b5e7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff966b50354 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff95e93715c UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff95e93729b UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff9424754fc UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff94242a1ea UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff942429d0b UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff942442b6e UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff935a6c456 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff935a71702 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff95e93bc4f UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff946aeae4e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff9473c00d6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff729a57800 UE4Editor.exe!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff729a6ba7c UE4Editor.exe!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff729a6bb5a UE4Editor.exe!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff729a7e31d UE4Editor.exe!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff729a8145a UE4Editor.exe!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff9b3467bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: [Callstack] 0x00007ff9b4a0ce51 ntdll.dll!UnknownFunction []
+[2020.06.29-11.40.18:428][149]LogOutputDevice: Error: 
+[2020.06.29-11.40.18:435][149]LogStats:                SubmitErrorReport -  0.000 s
+[2020.06.29-11.40.19:545][149]LogStats:                    SendNewReport -  1.110 s
+[2020.06.29-11.40.19:545][149]LogStats:             FDebug::EnsureFailed -  1.413 s
+[2020.06.29-11.41.03:273][149]LogSlate: Window 'Submit Files' being destroyed
+[2020.06.29-11.41.04:326][149]LogSourceControl: commit successful: [master 6ab2c46] added BP_PawnTank and BP_PawnTurret (both inherit from PawnBase
+[2020.06.29-11.41.04:480][149]SourceControl: [master 6ab2c46] added BP_PawnTank and BP_PawnTurret (both inherit from PawnBase
+[2020.06.29-11.41.04:480][149]SourceControl:  4 files changed, 7 insertions(+), 4 deletions(-)
+[2020.06.29-11.41.04:480][149]SourceControl:  create mode 100644 Content/Blueprints/Pawns/BP_PawnTurret.uasset
+[2020.06.29-11.41.04:485][149]SourceControl: Commited [master 6ab2c46] added BP_PawnTank and BP_PawnTurret (both inherit from PawnBase.
+[2020.06.29-11.41.04:487][149]LogTemp: Resetting audio stream to device id 
+[2020.06.29-11.41.04:503][149]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.29-11.41.04:503][149]LogAudioMixer: Display: 1: FrontRight
+[2020.06.29-11.50.07:795][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.06.29-11.50.07:796][482]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.023
+[2020.06.29-11.50.07:796][482]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Pawns/BP_PawnTank] ([1] browsable assets)...
+[2020.06.29-11.50.07:796][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_PawnTank]
+[2020.06.29-11.50.07:801][482]LogSavePackage: Moving '../../../../../../Users/johan/Desktop/ToonTanks/Saved/BP_PawnTank_Auto3221CFFDE46B234EEA801DAB401D1A269.tmp' to '../../../../../../Users/johan/Desktop/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawns/BP_PawnTank_Auto3.uasset'
+[2020.06.29-11.50.07:802][482]LogFileHelpers: Auto-saving content packages took 0.006
+[2020.06.29-11.53.08:416][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:416][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:416][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:416][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:417][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:417][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:417][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:417][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:417][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:417][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:417][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:417][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:417][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:417][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:417][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:417][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:417][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:417][417]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.06.29-11.53.08:514][417]EditorErrors: Warning: No assets to check in!
