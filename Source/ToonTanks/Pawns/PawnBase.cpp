@@ -32,7 +32,7 @@ void APawnBase::BeginPlay()
 // Called every frame
 void APawnBase::Tick(float DeltaTime)
 {
-	Super::Tick(DeltaTime); //test git//test test test
+	Super::Tick(DeltaTime);
 
 }
 

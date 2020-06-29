@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Hannes custom files
+Intermediate/CachedAssetRegistry.bin
+PackageRestoreData.json
+EditorPerProjectUserSettings.ini
+ToonTanks.log
+AutoScreenshot.png
