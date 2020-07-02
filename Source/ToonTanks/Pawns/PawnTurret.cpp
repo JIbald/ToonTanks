@@ -44,7 +44,6 @@ void APawnTurret::CheckFireCondition()
 	// if player is in range then fire
 	if (ReturnDistanceToPlayer() <= FireRange)
 	{
-		//fire
 		Fire();
 	}
 }
