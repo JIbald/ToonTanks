@@ -884,3 +884,204 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.03-17.32.05:102][134]Binding IntelliSense data... 100%
 [2020.07.03-17.32.05:102][134]Writing project files...
 [2020.07.03-17.32.07:806][134]Writing project files... 100%
+[2020.07.03-18.19.41:199][ 14]LogHttp: Warning: 0000019916455600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6ED660E9-45E6-8307-662D-EFA613BF699E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=ecba36b9461dc2d7bd026aa72670431c%7C8be1adac7b7d400286ca5bfe9bc2e26c%7C32226265-2e3d-4e74-bd34-09bde91036c8&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.07.03-18.19.41:199][ 14]LogHttp: Warning: 0000019916455600: request failed, libcurl error: 0 (No error)
+[2020.07.03-18.19.41:199][ 14]LogHttp: Warning: 0000019916455600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x198deec7f70 [can pipeline])
+[2020.07.03-18.19.41:199][ 14]LogHttp: Warning: 0000019916455600: libcurl info message cache 1 (Re-using existing connection! (#34) with host datarouter.ol.epicgames.com)
+[2020.07.03-18.19.41:199][ 14]LogHttp: Warning: 0000019916455600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.83.136.94) port 443 (#34))
+[2020.07.03-18.19.41:199][ 14]LogHttp: Warning: 0000019916455600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.07.03-18.19.41:199][ 14]LogHttp: Warning: 0000019916455600: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2020.07.03-18.19.41:199][ 14]LogHttp: Warning: 0000019916455600: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2020.07.03-18.19.41:199][ 14]LogHttp: Warning: 0000019916455600: libcurl info message cache 6 (Closing connection 34)
+[2020.07.03-18.19.41:199][ 14]LogHttp: Warning: 0000019916455600: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.07.03-18.19.41:199][ 14]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6ED660E9-45E6-8307-662D-EFA613BF699E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=ecba36b9461dc2d7bd026aa72670431c%7C8be1adac7b7d400286ca5bfe9bc2e26c%7C32226265-2e3d-4e74-bd34-09bde91036c8&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.07.03-19.56.49:969][408]Candidate modules for hot reload:
+[2020.07.03-19.56.49:970][408]  ToonTanks
+[2020.07.03-19.56.49:970][408]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,1281 ToonTanksEditor Win64 Development -Project="C:/Users/johan/Desktop/ToonTanks/ToonTanks.uproject" "C:/Users/johan/Desktop/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2020.07.03-19.56.49:979][408]Warning: Starting HotReload took  0.0s.
+[2020.07.03-19.57.01:759][789]CompilerResultsLog: New page: Compilation - Jul 3, 2020, 11:57:01 PM
+[2020.07.03-19.57.01:759][789]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\johan\Desktop\ToonTanks).
+[2020.07.03-19.57.01:759][789]CompilerResultsLog: Creating makefile for ToonTanksEditor (no existing makefile)
+[2020.07.03-19.57.01:759][789]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2020.07.03-19.57.01:759][789]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\johan\Desktop\ToonTanks\ToonTanks.uproject" "C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\johan\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.07.03-19.57.01:759][789]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 4.6424749 seconds
+[2020.07.03-19.57.01:759][789]CompilerResultsLog: Building ToonTanksEditor...
+[2020.07.03-19.57.01:759][789]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.03-19.57.01:759][789]CompilerResultsLog: Building 13 actions with 16 processes...
+[2020.07.03-19.57.01:759][789]CompilerResultsLog:   [1/13] TankGameModeBase.cpp
+[2020.07.03-19.57.01:759][789]CompilerResultsLog:    C:\Users\johan\Desktop\ToonTanks\Source\ToonTanks\GameModes\TankGameModeBase.cpp(31) : error C2065: 'DestroyedTurret': undeclared identifier
+[2020.07.03-19.57.01:759][789]CompilerResultsLog:    C:\Users\johan\Desktop\ToonTanks\Source\ToonTanks\GameModes\TankGameModeBase.cpp(29) : error C4390: ';': empty controlled statement found; is this the intent?
+[2020.07.03-19.57.01:759][789]CompilerResultsLog:   [2/13] ToonTanks.init.gen.cpp
+[2020.07.03-19.57.01:759][789]CompilerResultsLog:   [3/13] PawnTurret.gen.cpp
+[2020.07.03-19.57.01:759][789]CompilerResultsLog:   [4/13] PawnTank.gen.cpp
+[2020.07.03-19.57.01:759][789]CompilerResultsLog:   [5/13] PawnBase.gen.cpp
+[2020.07.03-19.57.01:759][789]CompilerResultsLog:   [6/13] TankGameModeBase.gen.cpp
+[2020.07.03-19.57.01:759][789]CompilerResultsLog:   [7/13] PawnBase.cpp
+[2020.07.03-19.57.01:759][789]CompilerResultsLog:   [8/13] PawnTank.cpp
+[2020.07.03-19.57.01:759][789]CompilerResultsLog:   [9/13] HealthComponent.cpp
+[2020.07.03-19.57.01:759][789]CompilerResultsLog:   [10/13] PawnTurret.cpp
+[2020.07.03-19.57.01:759][789]LogMainFrame: MainFrame: Module compiling took 11.793 seconds
+[2020.07.03-19.57.01:759][789]Warning: HotReload failed, recompile failed
+[2020.07.03-20.07.15:549][234]LogSlate: Window 'Message Log' being destroyed
+[2020.07.03-20.07.15:552][234]LogSlate: Window 'Message Log' being destroyed
+[2020.07.03-20.07.16:341][327]Candidate modules for hot reload:
+[2020.07.03-20.07.16:341][327]  ToonTanks
+[2020.07.03-20.07.16:341][327]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,170 ToonTanksEditor Win64 Development -Project="C:/Users/johan/Desktop/ToonTanks/ToonTanks.uproject" "C:/Users/johan/Desktop/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2020.07.03-20.07.16:351][327]Warning: Starting HotReload took  0.0s.
+[2020.07.03-20.07.26:930][566]CompilerResultsLog: New page: Compilation - Jul 4, 2020, 12:07:26 AM
+[2020.07.03-20.07.26:930][566]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\johan\Desktop\ToonTanks).
+[2020.07.03-20.07.26:930][566]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2020.07.03-20.07.26:930][566]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\johan\Desktop\ToonTanks\ToonTanks.uproject" "C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\johan\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.07.03-20.07.26:930][566]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 4.4956291 seconds
+[2020.07.03-20.07.26:930][566]CompilerResultsLog: Building ToonTanksEditor...
+[2020.07.03-20.07.26:930][566]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.03-20.07.26:930][566]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.07.03-20.07.26:930][566]CompilerResultsLog:   [1/6] TankGameModeBase.gen.cpp
+[2020.07.03-20.07.26:930][566]CompilerResultsLog:   [2/6] TankGameModeBase.cpp
+[2020.07.03-20.07.26:930][566]CompilerResultsLog:   [3/6] HealthComponent.cpp
+[2020.07.03-20.07.26:930][566]CompilerResultsLog:   [4/6] UE4Editor-ToonTanks-0170.lib
+[2020.07.03-20.07.26:930][566]CompilerResultsLog:      Creating library C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0170.lib and object C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0170.exp
+[2020.07.03-20.07.26:930][566]CompilerResultsLog:   [5/6] UE4Editor-ToonTanks-0170.dll
+[2020.07.03-20.07.26:930][566]CompilerResultsLog:      Creating library C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0170.suppressed.lib and object C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0170.suppressed.exp
+[2020.07.03-20.07.26:930][566]CompilerResultsLog:   [6/6] ToonTanksEditor.target
+[2020.07.03-20.07.26:930][566]CompilerResultsLog: Total time in Parallel executor: 1.32 seconds
+[2020.07.03-20.07.26:930][566]CompilerResultsLog: Total execution time: 10.51 seconds
+[2020.07.03-20.07.26:930][566]LogMainFrame: MainFrame: Module compiling took 10.592 seconds
+[2020.07.03-20.07.26:947][566]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 3433 classes and 827 folders.
+[2020.07.03-20.07.26:947][566]Display: HotReload took 10.6s.
+[2020.07.03-20.08.41:236][443]Candidate modules for hot reload:
+[2020.07.03-20.08.41:236][443]  ToonTanks
+[2020.07.03-20.08.41:236][443]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,7851 ToonTanksEditor Win64 Development -Project="C:/Users/johan/Desktop/ToonTanks/ToonTanks.uproject" "C:/Users/johan/Desktop/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2020.07.03-20.08.41:246][443]Warning: Starting HotReload took  0.0s.
+[2020.07.03-20.08.46:611][ 56]CompilerResultsLog: New page: Compilation - Jul 4, 2020, 12:08:46 AM
+[2020.07.03-20.08.46:611][ 56]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\johan\Desktop\ToonTanks).
+[2020.07.03-20.08.46:611][ 56]CompilerResultsLog: Building ToonTanksEditor...
+[2020.07.03-20.08.46:611][ 56]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.03-20.08.46:611][ 56]CompilerResultsLog: Building 3 actions with 16 processes...
+[2020.07.03-20.08.46:611][ 56]CompilerResultsLog:   [1/3] UE4Editor-ToonTanks-7851.lib
+[2020.07.03-20.08.46:611][ 56]CompilerResultsLog:      Creating library C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7851.lib and object C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7851.exp
+[2020.07.03-20.08.46:611][ 56]CompilerResultsLog:   [2/3] UE4Editor-ToonTanks-7851.dll
+[2020.07.03-20.08.46:611][ 56]CompilerResultsLog:      Creating library C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7851.suppressed.lib and object C:\Users\johan\Desktop\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7851.suppressed.exp
+[2020.07.03-20.08.46:611][ 56]CompilerResultsLog:   [3/3] ToonTanksEditor.target
+[2020.07.03-20.08.46:611][ 56]CompilerResultsLog: Total time in Parallel executor: 0.75 seconds
+[2020.07.03-20.08.46:611][ 56]CompilerResultsLog: Total execution time: 5.30 seconds
+[2020.07.03-20.08.46:611][ 56]LogMainFrame: MainFrame: Module compiling took 5.378 seconds
+[2020.07.03-20.08.46:643][ 56]LogClass: Could not find existing class TankGameModeBase in package /Script/ToonTanks for HotReload, assuming new class
+[2020.07.03-20.08.46:655][ 56]LogHotReload: Re-instancing TankGameModeBase after hot-reload.
+[2020.07.03-20.08.46:671][ 56]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0004 seconds. Added 6 classes and 6 folders.
+[2020.07.03-20.08.46:676][ 56]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2020.07.03-20.08.46:745][ 56]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 3433 classes and 827 folders.
+[2020.07.03-20.08.46:745][ 56]Display: HotReload took  5.5s.
+[2020.07.03-20.08.50:867][514]MapCheck: New page: Map Check
+[2020.07.03-20.08.50:880][514]Cmd: MAP REBUILD ALLVISIBLE
+[2020.07.03-20.08.50:880][514]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.07.03-20.08.50:883][514]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=false
+[2020.07.03-20.08.50:912][514]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.07.03-20.08.50:912][514]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.07.03-20.08.50:912][514]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.07.03-20.08.51:007][514]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.07.03-20.08.51:011][514]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.03-20.08.51:017][514]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.03-20.08.51:018][514]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.03-20.08.51:019][514]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.03-20.08.51:442][514]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2020.07.03-20.08.51:442][514]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2020.07.03-20.08.51:442][514]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2020.07.03-20.08.51:442][514]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2020.07.03-20.08.51:442][514]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2020.07.03-20.08.51:442][514]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2020.07.03-20.08.51:442][514]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2020.07.03-20.08.51:442][514]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.07.03-20.08.51:442][514]TextureStreamingBuild: Display: Compiling optional shaders took 0.434 seconds.
+[2020.07.03-20.08.51:445][514]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2020.07.03-20.08.51:448][514]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2020.07.03-20.08.51:508][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.07.03-20.08.51:511][514]LightingResults: New page: Lighting Build - Jul 4, 2020, 12:08:51 AM
+[2020.07.03-20.08.51:534][514]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.07.03-20.08.51:581][514]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.07.03-20.08.51:589][514]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.07.03-20.08.55:595][514]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2020.07.03-20.08.55:596][514]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4+Licensee\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2020.07.03-20.09.00:599][514]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.07.03-20.09.00:599][514]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3096
+[2020.07.03-20.09.05:118][514]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.07.03-20.09.05:119][514]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.07.03-20.09.05:119][514]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.07.03-20.09.05:119][514]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.07.03-20.09.05:119][514]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.07.03-20.09.05:119][514]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.07.03-20.09.05:226][514]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.07.03-20.09.05:227][514]MapCheck: New page: Main - Jul 4, 2020, 12:09:05 AM
+[2020.07.03-20.09.05:227][514]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.336ms to complete.
+[2020.07.03-20.09.05:229][514]LogEditorBuildUtils: Build time 0:14
+[2020.07.03-20.09.05:605][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.07.03-20.09.06:342][559]Job is a success!
+[2020.07.03-20.09.06:425][560]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2020.07.03-20.09.06:425][560]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.07.03-20.09.06:425][560]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2020.07.03-20.09.06:425][560]LogVolumetricLightmapImport:      Bricks at depth
+[2020.07.03-20.09.06:425][560]LogVolumetricLightmapImport:          0: 1.9% covering 100.0% of volume
+[2020.07.03-20.09.06:425][560]LogVolumetricLightmapImport:          1: 7.4% covering 6.3% of volume
+[2020.07.03-20.09.06:425][560]LogVolumetricLightmapImport:          2: 90.7% covering 1.2% of volume
+[2020.07.03-20.09.06:425][560]LogVolumetricLightmapImport:      Bricks in each level
+[2020.07.03-20.09.06:425][560]LogVolumetricLightmapImport:          Main 			 54 bricks 	 100.0% (Persistent Level)
+[2020.07.03-20.09.06:481][560]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2020.07.03-20.09.06:481][560]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.07.03-20.09.06:481][560]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.07.03-20.09.06:481][560]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.07.03-20.09.06:481][560]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2020.07.03-20.09.06:481][560]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.07.03-20.09.06:481][560]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.07.03-20.09.06:481][560]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X128)
+[2020.07.03-20.09.06:481][560]Lightmass on DESKTOP-CC8P123: 529 ms total, 70 ms importing, 11 ms setup, 78 ms photons, 343 ms processing, 0 ms extra exporting [8/8 mappings]. Threads: 5.14 sec total, 340 ms processing.
+[2020.07.03-20.09.06:481][560]LogStaticLightingSystem: Main_BuiltData storing lightmap data for 8 meshes in 2 LightmapResourceClusters (4.0 Meshes per cluster).
+[2020.07.03-20.09.06:506][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.07.03-20.09.06:539][560]LogStaticLightingSystem: Illumination: 14.9 sec (26 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2020.07.03-20.09.06:539][560]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.07.03-20.09.06:539][560]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.07.03-20.09.07:124][560]DumpUnbuiltLightIteractions
+[2020.07.03-20.09.07:124][560]Lights with unbuilt interactions: 0
+[2020.07.03-20.09.07:124][560]
+[2020.07.03-20.09.07:124][560]Primitives with unbuilt interactions: 0
+[2020.07.03-20.09.07:172][561]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.07.03-20.09.07:172][561]MapCheck: New page: Main - Jul 4, 2020, 12:09:07 AM
+[2020.07.03-20.09.07:173][561]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.413ms to complete.
+[2020.07.03-20.09.09:411][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.07.03-20.09.09:413][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/johan/Desktop/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.07.03-20.09.09:429][824]LogSavePackage: Moving '../../../../../../Users/johan/Desktop/ToonTanks/Saved/Main_Auto1939CCF6B4A221B95271D5D9AF1E392E2.tmp' to '../../../../../../Users/johan/Desktop/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2020.07.03-20.09.09:431][824]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.037
+[2020.07.03-20.09.09:431][824]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.037
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:331][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/johan/Desktop/ToonTanks'
+[2020.07.03-20.09.17:434][734]EditorErrors: Warning: No assets to check in!

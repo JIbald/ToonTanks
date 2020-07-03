@@ -25,6 +25,7 @@ public:
 	void GameOver(bool PlayerWon);
 private:
 	int32 TargetTurrets = 0;
+	int32 GetTargetTurretCount();
 	
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Player", meta = (AllowPrivateAccess))
 	APawnTank* PlayerTank;
