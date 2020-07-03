@@ -2,16 +2,34 @@
 
 
 #include "TankGameModeBase.h"
+#include "ToonTanks/Pawns/PawnTank.h"
+#include "ToonTanks/Pawns/PawnTurret.h"
+#include "Kismet/GameplayStatics.h"
 
 void ATankGameModeBase::BeginPlay()
 {
-	//get references and game win/lose conditions.
-	//call HandleGameStart to initialise the start countdown, turret activation, pawn check etc.
+	Super::BeginPlay();
+
+	TSubclassOf<APawnTurret> ClassToFind;
+	ClassToFind = APawnTurret::StaticClass();
+	TArray<AActor*> TurretActors;
+	UGameplayStatics::GetAllActorsOfClass(GetWorld(), ClassToFind, TurretActors);
+	TargetTurrets = TurretActors.Num();
+
+	PlayerTank = Cast<APawnTank>(UGameplayStatics::GetPlayerPawn(this, 0));
 }
 
 void ATankGameModeBase::ActorDied(AActor* DeadActor)
 {
-	//check what type of actor died, if turret, tally, if player -> go to lose condition
+	if (DeadActor == PlayerTank)
+	{
+		PlayerTank->PawnDestroyed();
+		HandleGameOver(false);
+	}
+	else if (APawnTurret* DestroyedTurret = Cast<APawnTurret>(DeadActor));
+	{
+		
+	}
 }
 
 void ATankGameModeBase::HandleGameStart()
